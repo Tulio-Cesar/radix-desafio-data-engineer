@@ -8,7 +8,6 @@ Docker Desktop
 A Dag na interface do Airflow
 ![airflow_dags](_img\docker_desktop.PNG)
 
-
 ![airflow_graph](_img\airflow_graph.PNG)
 
 Realizei as instalações e manipulações de todo o desafio via terminal wsl2 (ubuntu) do windows 10, diretamente pelo vscode.
@@ -22,9 +21,3 @@ O maior desafio que eu encarei no desenvolvimento desse projeto foi no processam
 ## Considerações
 
 Quero agradecer a oportunidade de realizar o desafio, foi muito estudo e bastante aprendizado.   
-
-#timeradix
-
-
-
-
