@@ -175,7 +175,7 @@ Docker Desktop
 ![docker_desktop](/_img/docker_desktop.PNG)
 
 A Dag na interface do Airflow
-![airflow_dags](/_img/docker_desktop.PNG)
+![airflow_dags](/_img/airflow_dags.PNG)
 
 ![airflow_graph](/_img/airflow_graph.PNG)
 
